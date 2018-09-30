@@ -1,7 +1,7 @@
 {
   "name": "index",
   "version": "1.0.0",
-  "description": "",
+  "description": "chatbot soldai prueba",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
