@@ -31,7 +31,7 @@ export default {
           imageUrl: 'https://avatars3.githubusercontent.com/u/1915989?s=230&v=4'
         }
       ], // the list of all the participant of the conversation. `name` is the user name, `id` is used to establish the author of a message, `imageUrl` is supposed to be the user avatar.
-      titleImageUrl: 'https://a.slack-edge.com/66f9/img/avatars-teams/ava_0001-34.png',
+      titleImageUrl: 'https://orig00.deviantart.net/fcba/f/2016/282/2/7/animated_vulpix_alola_form_pokeball_by_thelittlelight-dake1h1.gif',
       messageList: [], // the list of the messages to show, can be paginated and adjusted dynamically
       newMessagesCount: 0,
       isChatOpen: false, // to determine whether the chat window should be open or closed

@@ -7,13 +7,11 @@
             .navbar-item
               img(src="../../assets/soldai-logo.png")
           .navbar-end
-            router-link.navbar-item(to="/") Buscar
-            router-link.navbar-item(:to="{ name: 'about' }") Nosotros
-
+            router-link.navbar-item(to="/") Información
     .hero-body
       .container.has-text-centered
-        h1.title Chatbot Pokemón
-        h2.subtitle Información sobre pokemons
+        img(src="../../assets/pokemon-pikachu-png.png")
+        h2.subtitle ChatBot Pokémon
 </template>
 
 <script>
