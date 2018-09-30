@@ -5,7 +5,7 @@ let app = express()
 app.use(cors())
 console.log(__dirname)
 app.use(express.static(path.join(__dirname, './dist')))
-var port = process.env.PORT || 80
+var port = process.env.PORT || 8080
 // Server index.html page when request to the root is made
 app.use('/dist', express.static('./dist'))
 app.listen(port)
