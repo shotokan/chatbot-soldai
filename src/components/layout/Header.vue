@@ -11,7 +11,7 @@
     .hero-body
       .container.has-text-centered
         img(src="../../assets/pokemon-pikachu-png.png")
-        h2.subtitle ChatBot Pokémon
+        h2.subtitle ChatBot Pokedex
 </template>
 
 <script>
